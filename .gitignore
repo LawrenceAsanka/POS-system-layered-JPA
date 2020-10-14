@@ -1,5 +1,5 @@
 .idea/
 out/
 *.iml
-/lib/
-/test/
+lib/
+test/
