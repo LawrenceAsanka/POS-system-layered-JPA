@@ -1,6 +1,4 @@
-# POS System
-
-***POS System using Java,MySQL,Hibernate(JPA) and Maven***
+# POS System 
 
 In this **POS System** has all the functionalities of a POS system, like customer adding,item management,order placing,order viewing and order searching.It consists of five main parts;
 
@@ -9,6 +7,10 @@ In this **POS System** has all the functionalities of a POS system, like custome
     * Placeorders
     * View orders
     * Search orders
+
+Further this POS System has implemented by using various technologies and frameworks.Click the above link to check those implementations.
+
+[Different Implementations of POS System](https://github.com/LawrenceAsanka/Point-of-Sale-System/blob/master/README.md)
 
 ## Dependencies
 
@@ -28,4 +30,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Distributed under the MIT License. See [License](LICENSE) for more information.
