@@ -19,6 +19,8 @@ Further this POS System has implemented by using various technologies and framew
 * [Hibernate](https://mvnrepository.com/artifact/org.projectlombok/lombok) - Hibernate ORM is an object-relational mapping tool for the Java programming language. It provides a framework for mapping an object-oriented domain model to a relational database.
 * [Lombok](https://mvnrepository.com/artifact/org.hibernate/hibernate-core) - Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.
 
+## Configurations
+
 Find the resource directory from project directory and config the below properties with your dialect,database name,user name and password in the application.properties file.
 
 `hibernate.dialect=org.hibernate.dialect.<your dialect>
